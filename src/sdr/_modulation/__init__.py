@@ -3,6 +3,7 @@ A subpackage for various modulation schemes.
 """
 
 from ._cpm import *
+from ._fsk import *
 from ._linear import *
 from ._msk import *
 from ._psk import *

@@ -7,3 +7,4 @@ Modulation
     pulse-shapes.ipynb
     peak-to-average-power.ipynb
     psk.ipynb
+    fsk.ipynb

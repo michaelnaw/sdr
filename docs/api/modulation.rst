@@ -14,6 +14,8 @@ Continuous-phase modulations
 Orthogonal modulations
 ----------------------
 
+.. python-apigen-group:: modulation-orthogonal
+
 .. _pulse-shaping-functions:
 
 Pulse shaping

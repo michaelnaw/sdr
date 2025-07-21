@@ -63,9 +63,9 @@ View all available classes and functions in the `API Reference <https://mhostett
 - **Sequences**: Binary, Gray, Barker, Hadamard, Walsh, Gold, Kasami, Zadoff-Chu, $m$-sequences, preferred pairs,
   Fibonacci LFSRs, Galois LFSRs, LFSR synthesis.
 - **Coding**: Block interleavers, additive scramblers.
-- **Modulation**: Phase-shift keying (PSK), $\pi/M$ PSK, offset QPSK, continuous-phase modulation (CPM),
-  minimum-shift keying (MSK), rectangular pulse shapes, half-sine pulse shapes, Gaussian pulse shapes,
-  raised cosine pulse shapes, root raised cosine pulse shapes, differential encoding.
+- **Modulation**: Phase-shift keying (PSK), $\pi/M$ PSK, offset QPSK, frequency-shift keying (FSK),
+  continuous-phase modulation (CPM), minimum-shift keying (MSK), rectangular pulse shapes, half-sine pulse shapes,
+  Gaussian pulse shapes, raised cosine pulse shapes, root raised cosine pulse shapes, differential encoding.
 - **Estimation**: TOA, TDOA, FOA, FDOA Cramér-Rao lower bounds.
 - **Detection**: Detector probability density functions (PDFs). Theoretical probability of detection, probability of
   false alarm, and thresholds. Detection performance approximations. Coherent gain, coherent gain loss (CGL),
